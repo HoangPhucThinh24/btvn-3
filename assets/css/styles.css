@@ -1,0 +1,46 @@
+* {
+    box-sizing: -box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: beige;
+
+}
+
+.bai-viet {
+    width: 300px;
+    background-color: white;
+}
+
+
+.thong-tin {
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.h4 {
+    margin: 0;
+    font-size: 16px;
+    color: black;
+    font-weight: normal;
+}
+.ngay-thang {
+    font-size: 12px;
+}
